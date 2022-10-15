@@ -12,7 +12,7 @@ class _HamePageState extends State<HamePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Salom"),
+        title: Text("Alik"),
         centerTitle: true,
       ),
       body: const Center(
